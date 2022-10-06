@@ -1,4 +1,4 @@
-let arr = [5, 7, 8, 5, 1, 0, 0, 0, 8];
+llet arr = [5, 7, 8, 5, 1, 0, 0, 0, 8];
 let even = 0;
 let odd = 0;
 let zero = 0;
@@ -12,8 +12,5 @@ let zero = 0;
         }
     }
 
-console.log(zero);
-console.log(even);
-console.log(odd);
+console.log(zero, even, odd);
 
- 
